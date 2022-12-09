@@ -1,0 +1,13 @@
+﻿  dllmain.cpp
+E:\Java\DirectX4J\Cpp\DirectX4J\DirectX4J\jni_helper.h(11,52): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+E:\Java\DirectX4J\Cpp\DirectX4J\DirectX4J\jni_helper.h(13,62): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+E:\Java\DirectX4J\Cpp\DirectX4J\DirectX4J\jni_helper.h(44,52): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+E:\Java\DirectX4J\Cpp\DirectX4J\DirectX4J\jni_helper.h(46,62): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+E:\Java\DirectX4J\Cpp\DirectX4J\DirectX4J\jni_helper.h(73,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 E:\Java\DirectX4J\Cpp\DirectX4J\x64\Release\DirectX4J.lib 和对象 E:\Java\DirectX4J\Cpp\DirectX4J\x64\Release\DirectX4J.exp
+  正在生成代码
+  2 of 309 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DirectX4J.vcxproj -> E:\Java\DirectX4J\Cpp\DirectX4J\x64\Release\DirectX4J.dll
